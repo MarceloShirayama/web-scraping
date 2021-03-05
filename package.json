@@ -1,7 +1,7 @@
 {
   "name": "web-scraping",
   "version": "1.0.0",
-  "description": "",
+  "description": "web scraping with puppeteer",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev -r tsconfig-paths/register --respawn --transpile-only --ignore-watch node_modules --no-notify src/server.ts",
